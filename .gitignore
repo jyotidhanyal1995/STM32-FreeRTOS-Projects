@@ -1,0 +1,5 @@
+Debug/
+*.o
+*.map
+*.list
+*.elf
